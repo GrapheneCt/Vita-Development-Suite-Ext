@@ -5,4 +5,4 @@ Required for building complex system applications such as [NetStream](https://gi
 
 # Installation
 
-Follow instructions in the [Vita Development Suite Startup Guide](https://github.com/Vita-Development-Suite/doc), but use components from the [Releases](https://github.com/Vita-Development-Suite/doc) of this repository.
+Follow instructions in the [Vita Development Suite Startup Guide](https://github.com/Vita-Development-Suite/doc), but use components from the [Releases](https://github.com/GrapheneCt/Vita-Development-Suite-Ext/releases/) of this repository.
